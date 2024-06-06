@@ -1,0 +1,38 @@
+[
+    {
+        "department": "IT department",
+        "email": "rakib@gmail.com",
+        "id": "1",
+        "name": "Md Rakib",
+        "occupation": "PHP Developer",
+        "position": "Sinior",
+        "status": "Active"
+    },
+    {
+        "department": "IT department",
+        "email": "hassan@gmail.com",
+        "id": "2",
+        "name": "Mr Hassan",
+        "occupation": "Python programmer",
+        "position": "Junior",
+        "status": "Active"
+    },
+    {
+        "department": "IT department",
+        "email": "tuhin@gmail.com",
+        "id": "3",
+        "name": "Mr Tuhin",
+        "occupation": "Software engineer",
+        "position": "Sinior",
+        "status": "Active"
+    },
+    {
+        "department": "IT",
+        "email": "tanin@gmail.com",
+        "id": 38,
+        "name": "Mohammed Tanin",
+        "occupation": "Java Developer",
+        "position": "Junior",
+        "status": "Active"
+    }
+]
